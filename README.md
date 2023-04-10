@@ -1,4 +1,3 @@
-#Calculator
 A calculator made using Html,css,javascript
 
 
